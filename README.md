@@ -2,6 +2,8 @@
 
 This is a sample project demonstrating how to create notifications with the help of the Notifications API.
 
+[Visit the Webpage](https://jolterix20.github.io/js-notifications/)
+
 To begin we need to request permission from the browser to allow notifications.
 Once the permission is granted, we can create a notification using the Notification constructor.
 
